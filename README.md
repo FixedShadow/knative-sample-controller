@@ -12,3 +12,11 @@ To learn more about Knative, please visit our
 
 If you are interested in contributing, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 and [DEVELOPMENT.md](./DEVELOPMENT.md).
+
+---
+
+- 👋 Hi, I’m @FixedShadow
+- 👀 I’m interested in k8s, golang 
+- 🌱 I’m currently learning k8s
+- 📫 How to reach me larosa1234@163.com
+- ⚡ Fun fact: (^ - ^)
